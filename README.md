@@ -1,2 +1,2 @@
 # PeriyodikTablo
- HTML tables ile periyodik tablo
+Periodic table of HTML elements
